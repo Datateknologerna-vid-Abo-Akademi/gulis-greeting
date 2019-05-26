@@ -9,7 +9,7 @@ Som tutorer kommer vi att hjälpa er hitta fram under studieorienteringsveckan
  föräningar. Det kommer mycket ny information under den första
   veckan, men det är bara att fråga sådant som man glömmer.
   
-Här hittas nyttig information för nya datateknik studeranden: https://Date.abo.fi/gulis <<<-------
+[Här hittas nyttig information för nya datateknik studeranden](https://Date.abo.fi/gulis)
 
 ## Tutorer
 
@@ -47,7 +47,7 @@ Har ni några frågor eller funderingar hjälper jag gärna,
 Vid det här området kommer du som datateknik studerande
  att spendera mest tid. Vill du bekanta dig mera med 
  campusområdet kan du hitta mera information här under
-  "Maps": https://Date.abo.fi/gulis
+  ["Maps":](https://Date.abo.fi/gulis)
 
 I Agora kommer ni under första året ha en grundkurs i 
 programmeringsspråket Python samt två kurser i Java,
@@ -66,7 +66,7 @@ vi tillsammans med andra ämnen att ha kvällsaktiviteter,
   i bland annat vårt kansli, spelkvällar tillsammans med 
   våra vänföreningar samt fester/sitzar kan också förekomma.
    Via DaTe får ni också den svarta halaren som bärs med stålthet på diverse evenemang. 
-På https://DaTe.abo.fi hittas mera information om ämnesföräningen!
+På [DaTes hemsida](https://DaTe.abo.fi) hittas mera information om ämnesföräningen!
 
 Vi har också en facebook grupp tillsammans med kemi och kemiteknik gulisar 
 som ni får gå med i: //TODO
