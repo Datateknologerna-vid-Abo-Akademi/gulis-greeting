@@ -1,4 +1,4 @@
-## Welcome
+## Välkommen
 Vi vill som tutorer för datateknik gratuera dig til din studieplats!
 På den här sidan hittar du lite information om studierna samt en
  introduktion till oss tutorer. Så länge du deltar aktivt under de 
@@ -60,6 +60,7 @@ vi tillsammans med andra ämnen att ha kvällsaktiviteter,
  för att ni skall lättare hitta er in i gänget. 
  Speciellt kemiteknik/kemi och datavetenskap studeranden kommer ni att se mycket av.
 ![DaTeBild](images/DaTe_Bild.jpg)
+
 Ämnesföreningen DaTe ordnar evenemang under hela året.
  Vi är med och ordnar intressanta föreläsningar och chill kvällar
   i bland annat vårt kansli, spelkvällar tillsammans med 
