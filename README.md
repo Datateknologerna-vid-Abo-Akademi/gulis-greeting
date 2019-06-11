@@ -35,8 +35,10 @@ Har ni några frågor eller funderingar hjälper jag gärna,
 
 
 ### William
-jenare, ja heter William och kommer att fungera som tutor för er gulisar nu kommande höst. Jag börjar på mitt andra år på Datateknik och kommer från Tammerfors, så ja talar flytande finska samt svenska. Jag fungerar också somm gulisansvarig i DaTe:s styrelsse så om ni har några frågor om vad som hälst så är det bara att skicka mail till willlind@abo.fi (skrivs med tre(3) l) eller bara på whatsapp till 0405597373.
+Tjenare, ja heter William och kommer att fungera som tutor för er gulisar nu kommande höst. Jag börjar på mitt andra år på Datateknik och kommer från Tammerfors, så ja talar flytande finska samt svenska. Jag fungerar också somm gulisansvarig i DaTe:s styrelsse så om ni har några frågor om vad som hälst så är det bara att skicka mail till willlind@abo.fi (skrivs med tre(3) l) eller bara på whatsapp till 0405597373.
 ![william](images\William_tutor_bild.jpg)
+
+##Campus
 
 ![karta](images/Tutuor_Map.png)
 1. Agora ingång 
