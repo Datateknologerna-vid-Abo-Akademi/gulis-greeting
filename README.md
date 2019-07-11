@@ -15,10 +15,8 @@ Som tutorer kommer vi att hjälpa er hitta fram under studieorienteringsveckan
 
 ### Benna
 Halloj, jag heter Benjamin och börjar nu på mitt fjärde 
-år här på Datateknik. Jag kommer från den finare sidan av 
-Finland alltså Österbotten eller mer specifikt Jakobstad.
-Det här blir mitt andra år som tutor
-så om ni har frågor kan ni nå mig vid Bfinell@abo.fi 
+år här på Datateknik. Jag kommer från Jakobstad som ligger i det vackra Österbotten. Det här blir mitt andra år som tutor.
+Ta gärna kontakt ifall ni funderar på något, ni når mig på min mail Bfinell@abo.fi eller på min telefon +358400326056
 
 ![benna](images/Benjamin_Finell_Tutor.jpg)
 
@@ -35,7 +33,8 @@ Har ni några frågor eller funderingar hjälper jag gärna,
 
 
 ### William
-Tjenare, ja heter William och kommer att fungera som tutor för er gulisar nu kommande höst. Jag börjar på mitt andra år på Datateknik och kommer från Tammerfors, så ja talar flytande finska samt svenska. Jag fungerar också somm gulisansvarig i DaTe:s styrelsse så om ni har några frågor om vad som hälst så är det bara att skicka mail till willlind@abo.fi (skrivs med tre(3) l) eller bara på whatsapp till 0405597373.
+Tjenare, ja heter William och kommer att fungera som tutor för er gulisar nu kommande höst.
+ Jag börjar på mitt andra år på Datateknik och kommer från Tammerfors, så ja talar flytande finska samt svenska. Jag fungerar också somm gulisansvarig i DaTe:s styrelsse så om ni har några frågor om vad som hälst så är det bara att skicka mail till willlind@abo.fi (skrivs med tre(3) l) eller bara på whatsapp till 0405597373.
 ![william](images\William_tutor_bild.jpg)
 
 
